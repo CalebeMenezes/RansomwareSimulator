@@ -7,6 +7,7 @@
 ## 🎯 Objective
 
 Ethical ransomware simulator developed in Python for cybersecurity education, demonstrating encryption techniques, malware analysis, and prevention.
+>
 Simulador de ransomware ético desenvolvido em Python para educação em cybersecurity, demonstrando técnicas de criptografia, análise de malware e prevenção.
 
 ## ✨ Features
@@ -17,9 +18,9 @@ Simulador de ransomware ético desenvolvido em Python para educação em cyberse
 - ✅ Detailed logging system
 - ✅ Controlled and secure environment
 - ✅ Operation reports
-
-
-
+>
+>
+>
 - ✅ Criptografia AES-256 + RSA-2048
 - ✅ Interface estilo terminal interativa
 - ✅ Modo de descriptografia integrado
@@ -33,7 +34,7 @@ Simulador de ransomware ético desenvolvido em Python para educação em cyberse
 - 📝 Generates detailed logs of all operations
 - ⚠️ **NEVER** removes original files (safe mode)
 - 🔒 Keys are saved locally with backup
-
+>
 - 🔐 Opera apenas na pasta `test_files/`
 - 📝 Gera logs detalhados de todas as operações
 - ⚠️ **NUNCA** remove arquivos originais (modo seguro)
