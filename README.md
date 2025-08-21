@@ -1,6 +1,7 @@
 # 🔒 Ethical Ransomware Simulator
 
 > **⚠️ IMPORTANT NOTICE**: This is a strictly educational project for cybersecurity learning purposes. NEVER use it for malicious activities.
+> 
 > **⚠️ AVISO IMPORTANTE**: Este é um projeto estritamente educacional para fins de aprendizado em cybersecurity. NUNCA use para atividades maliciosas.
 
 ## 🎯 Objective
