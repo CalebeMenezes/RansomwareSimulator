@@ -18,6 +18,8 @@ Simulador de ransomware ético desenvolvido em Python para educação em cyberse
 - ✅ Controlled and secure environment
 - ✅ Operation reports
 
+
+
 - ✅ Criptografia AES-256 + RSA-2048
 - ✅ Interface estilo terminal interativa
 - ✅ Modo de descriptografia integrado
