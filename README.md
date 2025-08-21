@@ -36,7 +36,9 @@ Simulador de ransomware ético desenvolvido em Python para educação em cyberse
 - ⚠️ **NUNCA** remove arquivos originais (modo seguro)
 - 🔒 Chaves são salvas localmente com backup
 
-## 🚀 Como Usar
+## 🎮 Execução / Execution
+
+python main.py
 
 ### Pré-requisitos
 ```bash
